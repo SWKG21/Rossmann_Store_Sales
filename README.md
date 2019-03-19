@@ -1,6 +1,6 @@
 # Rossmann Store Sales
 
-This is a mini-project for course Machine Learning: Business case of Mater Data Sciences (Ecole Polytechnique).
+This is a mini-project for course Machine Learning: Business Case of Mater Data Sciences (Ecole Polytechnique).
 
 Authors: Wang SUN (main), Bolong ZHANG, Wenzhuo LIU, Shangyuan ZHANG
 
