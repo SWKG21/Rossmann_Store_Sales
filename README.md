@@ -1,7 +1,7 @@
-# Rossmann_Store_Sales
+# Rossmann Store Sales
 
-_**Group 5: LIU Wenzhuo, SUN Wang, ZHANG Bolong, ZHANG Shangyuan**_
+This is a mini-project for course Machine Learning: Business case of Mater Data Sciences (Ecole Polytechnique).
 
-run `train.py` to train your model and `predict.py` to save the prediction result on test set
+Authors: Wang SUN (Main), Bolong ZHANG, Wenzhuo LIU, Shangyuan ZHANG
 
-GitHub Link：https://github.com/BolongZHANG/Rossmann_Store_Sales
+run `train.py` to train a model and `predict.py` to save the prediction result on test set.
