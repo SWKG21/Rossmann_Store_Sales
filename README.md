@@ -1,6 +1,6 @@
 # Rossmann Store Sales
 
-This is a mini-project for course "Machine Learning: Business Case" of Master Data Sciences (Ecole Polytechnique). It is based on the Kaggle competition [Rossmann Store Sales] (https://www.kaggle.com/c/rossmann-store-sales).
+This is a mini-project for course "Machine Learning: Business Case" of Master Data Sciences at École Polytechnique. It is based on the Kaggle competition [Rossmann Store Sales] (https://www.kaggle.com/c/rossmann-store-sales).
 
 Authors: Wang SUN (main), Bolong ZHANG, Wenzhuo LIU, Shangyuan ZHANG
 
